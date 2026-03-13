@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**As a** [role]  
+ **As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
    
@@ -17,7 +17,7 @@ assignees: ''
  ### Acceptance Criteria  
    
  ```gherkin
-Given I am on the login page
-When I enter valid credentials
-Then I should be redirected to the dashboard
+ Given [some context]
+ When [certain action is taken]
+ Then [the outcome of action is observed]
  ```
